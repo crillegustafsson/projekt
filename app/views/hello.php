@@ -35,7 +35,7 @@
 </head>
 <body>
 	<div class="welcome">
-		<h1>Välkommna</h1>
+		<h1>Välkomna! rättat</h1>
 	</div>
 </body>
 </html>
