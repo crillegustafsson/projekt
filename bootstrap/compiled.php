@@ -476,7 +476,7 @@ class Application extends Container implements HttpKernelInterface, TerminableIn
     }
     public static function getBootstrapFile()
     {
-        return 'C:\\wamp\\www\\Laravelprojekt\\your-project-name\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation' . '/start.php';
+        return 'C:\\wamp\\www\\Laravelprojekt\\projekt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation' . '/start.php';
     }
     public function startExceptionHandling()
     {
